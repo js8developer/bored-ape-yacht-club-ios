@@ -324,6 +324,7 @@
 		44E3788328B028BE00B3B51E = {
 			isa = PBXGroup;
 			children = (
+				44B6D1EB297111EC00B496AE /* README.md */,
 				44E3788E28B028BE00B3B51E /* BAYC */,
 				44E3788D28B028BE00B3B51E /* Products */,
 			);
@@ -347,7 +348,6 @@
 				443B46102967739C009B4119 /* Data */,
 				44E3789328B028C600B3B51E /* Assets.xcassets */,
 				44E3789528B028C600B3B51E /* Preview Content */,
-				44B6D1EB297111EC00B496AE /* README.md */,
 			);
 			path = BAYC;
 			sourceTree = "<group>";
